@@ -23,7 +23,10 @@ This project performs a quantitative analysis comparing the performance and risk
 * **Why?** The exclusion of the banking sector (which typically acts as a stabilizer) creates a **"Sector Allocation Bias"** towards the Technology sector, which is inherently more volatile.
 
 ## 📉 Visualizations
-*(Here you can add the charts generated from the notebook)*
+
+<img width="1185" height="590" alt="image" src="https://github.com/user-attachments/assets/feb5cdb1-50fe-4e61-b0b8-21261a85242e" />
+<img width="1185" height="590" alt="image" src="https://github.com/user-attachments/assets/4854d952-6ccc-4d61-a639-2e2cbe3c0c1e" />
+
 
 ## 🚀 How to Run
 1. Open the file `Islamic_vs_Traditional.ipynb` in Google Colab.
